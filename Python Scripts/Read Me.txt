@@ -1,0 +1,4 @@
+These Scripts for the Pre-Processing of Datasets.
+-> Data Imputation
+-> Data Normalization and Oversampling
+-> Removing Decimals from the data for denormalization
